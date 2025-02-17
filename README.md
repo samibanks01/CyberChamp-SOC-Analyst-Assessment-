@@ -1,2 +1,1 @@
-# CyberChamp-SOC-Analyst-Assessment-
-CyberChamp Assessment
+# CyberChamp Exam
