@@ -311,7 +311,7 @@ const questions = [
   function displayUsername() {
     const usernameElement = document.getElementById("username-display");
     if (usernameElement) {
-      usernameElement.textContent = "Welcome to Week (IV) Test, " + temporaryUsername;
+      usernameElement.textContent = "Welcome to Week (V) Assessment, " + temporaryUsername;
     }
   }
   
